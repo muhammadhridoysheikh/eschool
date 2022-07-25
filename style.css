@@ -1,0 +1,48 @@
+.navbar-nav{
+    text-align: right;
+}
+#nothing{
+  padding-left: 10px;
+}
+.bg-color{
+  background-color: rgb(197, 245, 174);
+}
+.nav-item{
+  padding-right: 40px;
+}
+#button{
+  border-radius: 30px;
+  background-color: #21B573;
+  border: none;
+}
+.pagla{
+  padding-top: 10px;
+}
+.container{
+  padding: 50px;
+}
+.khabi{
+  color: red;
+ 
+}
+.amra{
+  border: none;
+
+  
+  
+}
+#kamla img{
+  max-width: 500px;
+}
+.amra .card img{
+  max-width: 75px;
+  
+}
+
+.jamal{
+  color: green;
+}
+.last{
+  background-color: rgb(46, 16, 56);
+  color: white;
+}
